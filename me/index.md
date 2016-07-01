@@ -1,14 +1,4 @@
 ---
 layout: about
 ---
-
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
-
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
-
-# Who are your favorite artists?
-Currently I'm listening to a lot of James Blake and Kaytranada.
-
-# What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
+I have spent me whole life avoiding computers as much as possible except for entertainment.  I would like to make a change and am starting here. I have 2 college degrees, 1 husband, 4 children, 2 pigs, 1 dog and 5 chickens.

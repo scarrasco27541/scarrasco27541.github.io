@@ -3,9 +3,11 @@
 
 - title: about
   url: /me
-
-- title: github
-  url: https://scarrasco27541.github.io
-
+  
 - title: Hobbies/Interests
-  url: /
+  url: /hobbies
+  
+- title: github
+  url: https://github.com/scarrasco27541
+
+
