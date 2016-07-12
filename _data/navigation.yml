@@ -4,6 +4,9 @@
 - title: about
   url: /me
   
+  -title: cv
+   url: /cv
+  
 - title: Hobbies/Interests
   url: /hobbies
   
